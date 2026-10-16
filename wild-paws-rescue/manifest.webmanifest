@@ -1,0 +1,17 @@
+{
+  "name": "Wild Paws Rescue",
+  "short_name": "Wild Paws",
+  "description": "Rescue, care for and release animals at your own wildlife rescue centre.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#2c4f27",
+  "theme_color": "#2f8a53",
+  "categories": ["games", "kids", "education"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
